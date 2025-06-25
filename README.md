@@ -1,0 +1,1 @@
+# SQL-based-analytical-exploration-of-indian-colleges
